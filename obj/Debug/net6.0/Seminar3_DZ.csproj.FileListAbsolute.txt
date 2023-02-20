@@ -1,0 +1,15 @@
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\bin\Debug\net6.0\Seminar3_DZ.exe
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\bin\Debug\net6.0\Seminar3_DZ.deps.json
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\bin\Debug\net6.0\Seminar3_DZ.runtimeconfig.json
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\bin\Debug\net6.0\Seminar3_DZ.dll
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\bin\Debug\net6.0\Seminar3_DZ.pdb
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\Seminar3_DZ.csproj.AssemblyReference.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\Seminar3_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\Seminar3_DZ.AssemblyInfoInputs.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\Seminar3_DZ.AssemblyInfo.cs
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\Seminar3_DZ.csproj.CoreCompileInputs.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\Seminar3_DZ.dll
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\refint\Seminar3_DZ.dll
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\Seminar3_DZ.pdb
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\Seminar3_DZ.genruntimeconfig.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar3_DZ\obj\Debug\net6.0\ref\Seminar3_DZ.dll
